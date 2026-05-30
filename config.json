@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersecrypt",
+        "uuid": 18149320,
+        "checksum": "riu3vm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
